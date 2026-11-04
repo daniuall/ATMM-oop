@@ -22,7 +22,7 @@
 | Инкапсуляция | барлық өріс `private`/`protected` |
 
 ## UML
-![UML](https://www.plantuml.com/plantuml/png/)
+![UML](uml.png)
 
 ## Жинақтау
 `g++ -std=c++11 *.cpp -o atm`
